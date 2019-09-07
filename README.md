@@ -1,4 +1,4 @@
-# Game-server
+# Game Server
 
 这是一个游戏的开发。
 
